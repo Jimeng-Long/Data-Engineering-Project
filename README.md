@@ -6,15 +6,9 @@
 ## Project Summary
 It is an End-to-End Data Engineering Project using Azure Could tools and technologies (Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks) to analyse Tokyo Olympic Data.
 
-## Prequisite Libraries
-Package                       Version
------------------------------ ---------------
-Flask                         2.2.2 <br>
-openai                        1.6.1
-
-## Installation
-pip install Flask <br>
-pip install openai
+## Prequisites
+Data source - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+Azure account creation - https://portal.azure.com/ (1 year free account and 30-day $200 credits) 
 
 ## Showcase of project
 
